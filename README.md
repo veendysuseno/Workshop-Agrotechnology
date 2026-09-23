@@ -1,4 +1,4 @@
-# Modul Workshop Agrotechnology V3
+# Modul Workshop Agrotechnology
 
 Modul workshop yang dirancang untuk mempelajari dasar-dasar **IoT (Internet of Things)** pada bidang agrotechnology, mulai dari pengenalan pin dan pemrograman IoT MCU hingga penggunaan sensor dan integrasi data menggunakan ThingSpeak.
 
